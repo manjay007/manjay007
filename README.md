@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on Flutter and Web.
+- 🔭 I’m currently working on Flutter App Development.
 - 🌱 I’m currently learning more about Machine Learning.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
