@@ -20,6 +20,9 @@
 <a href="https://www.facebook.com/manjay.rocco/">
   <img align="left" alt="Manjay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://dev.to/manjay007">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="manjay007's DEV Profile" height="30" width="30">
+</a>
 
 <br/>
 <br/>
