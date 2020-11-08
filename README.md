@@ -31,7 +31,8 @@
 
 - 🔭 I’m currently working on Flutter App Development.
 - 🌱 I’m currently learning more about Machine Learning.
-- 🤔 I’m looking for help with VelocityX and Firebase documentation.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Manjay301](https://twitter.com/Manjay301) , [Linkedin - @manjay007](https://www.linkedin.com/in/manjay007)
 - 😄 Pronouns: He/His
@@ -58,7 +59,7 @@
 <a href="https://github.com/manjay007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjay007&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/manjay007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manjay007&show_icons=true&theme=light&line_height=27" alt="Manjay's github stats"/>
 </a>
  
