@@ -30,7 +30,7 @@
 
 
 - 🔭 I’m currently working on Flutter App Development.
-- 🌱 I’m currently learning more about Machine Learning.
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Manjay301](https://twitter.com/Manjay301) , [Linkedin - @manjay007](https://www.linkedin.com/in/manjay007)
