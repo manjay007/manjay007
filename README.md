@@ -29,8 +29,8 @@
 
 
 
-- 🔭 I’m currently working on Flutter App Development.
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me: [Twitter - @Manjay301](https://twitter.com/Manjay301) , [Linkedin - @manjay007](https://www.linkedin.com/in/manjay007)
 - 😄 Pronouns: He/His
