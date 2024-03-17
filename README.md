@@ -29,12 +29,12 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning project.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 📫 How to reach me: [Twitter - @Manjay301](https://twitter.com/Manjay301) , [Linkedin - @manjay007](https://www.linkedin.com/in/manjay007)
+- 🔭 Currently seeking engaging opportunities in Machine Learning & AI projects.
+- 🌱 Actively honing skills in Web Development.
+- 👯 Open to collaborating on impactful Open Source initiatives.
+- 📫 Reach out to me via: [Twitter - @Manjay301](https://twitter.com/Manjay301) , [Linkedin - @manjay007](https://www.linkedin.com/in/manjay007)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I dedicate nearly 10 hours daily to enjoying music.
 
 [![Twitter: Manjay301](https://img.shields.io/twitter/follow/Manjay301?style=social)](https://twitter.com/Manjay301)
 [![Linkedin: manjay007](https://img.shields.io/badge/-manjay007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjay007/)](https://www.linkedin.com/in/manjay007/)
